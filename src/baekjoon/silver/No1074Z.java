@@ -3,7 +3,7 @@ package baekjoon.silver;
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class No1074Z {
     static int result;
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

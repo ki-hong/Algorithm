@@ -3,7 +3,7 @@ package baekjoon.silver;
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class No1992쿼드트리 {
 
     static int N;
     static int[][] arr;

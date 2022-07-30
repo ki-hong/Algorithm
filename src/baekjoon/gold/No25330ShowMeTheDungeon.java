@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-public class ShowMeTheDungeon {
+public class No25330ShowMeTheDungeon {
     static int n;
     static int k;
     static int[] A;
